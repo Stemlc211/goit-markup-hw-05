@@ -501,13 +501,14 @@ body .footer-desc {
 
 .footer-form{
     display: flex;
+    gap: 24px;
 }
 
 .footer-label{
     gap: 24px;
 }
 
-.footer-email{
+.footer-email-input{
     width: 264px;
     height: 40px;
     border: 1px solid #ffffff;
