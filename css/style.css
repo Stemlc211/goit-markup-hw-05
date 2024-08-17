@@ -731,7 +731,7 @@ fill: #ffffff;
     fill: transparent;
 }
 
- .form-checkbox , .span-svg , .span-use:checked{
+ .form-span-focus , .form-checkbox , .span-svg , .span-use:checked{
     background-color: #404bbf;
         border: none;
         fill: #F4F4FD;
