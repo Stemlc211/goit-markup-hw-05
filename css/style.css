@@ -732,29 +732,7 @@ fill: #ffffff;
         fill: #F4F4FD;
     }
 
-.form-span:checked{
-    background-color: #404bbf;
-    border: none;
-    fill: #F4F4FD;
-}
 
-.form-checkbox:checked{
-    background-color: #404bbf;
-        border: none;
-        fill: #F4F4FD;
-}
-
-.span-svg:checked{
-    background-color: #404bbf;
-        border: none;
-        fill: #F4F4FD;
-}
-
-.span-use:checked{
-    background-color: #404bbf;
-        border: none;
-        fill: #F4F4FD;
-}
 
 .form-link{
     color: #4d5ae5;
