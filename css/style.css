@@ -731,12 +731,11 @@ fill: #ffffff;
     fill: transparent;
 }
 
- .form-span-focus , .form-checkbox , .span-svg , .span-use:checked{
-    background-color: #404bbf;
-        border: none;
-        fill: #F4F4FD;
-    }
-
+ .form-checkbox:checked + .form-label-box .form-span {
+     background-color: #404bbf;
+     border: none;
+     fill: #F4F4FD;
+ }
 
 
 .form-link{
