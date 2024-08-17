@@ -669,6 +669,14 @@ fill: #ffffff;
     fill: #4D5AE5;
  }
 
+ .form-svgg:focus{
+    fill: #4D5AE5;
+ }
+
+ .form-svgg-use:focus{
+    fill: #4D5AE5;
+ }
+
  .form-containerr{
     margin-bottom: 16px;
  }
