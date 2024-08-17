@@ -726,6 +726,11 @@ fill: #ffffff;
     fill: transparent;
 }
 
+.form-span{
+    border: 1px solid rgba(46, 47, 66, 0.4);
+    fill: transparent;
+}
+
 .form-span , .form-checkbox , .span-svg , .span-use:checked{
     background-color: #404bbf;
         border: none;
