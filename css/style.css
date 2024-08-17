@@ -605,7 +605,7 @@ border-radius: 4px;
 fill: #ffffff;
  }
 
- .data-svg:focus{
+ .data-svg , .data-svgg:focus{
     fill: #ffffff;
  }
 
@@ -613,10 +613,9 @@ fill: #ffffff;
 fill: #ffffff;
  }
 
- .data-svgg:focus{
+.data-svgg:focus{
     fill: #ffffff;
- }
-
+}
 
  .data-paragraf{
     font-weight: 500;
@@ -719,10 +718,16 @@ fill: #ffffff;
     fill: transparent;
 }
 
-.form-checkbox:checked{
+.form-span:checked{
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
+}
+
+.form-checkbox:checked{
+    background-color: #404bbf;
+        border: none;
+        fill: #F4F4FD;
 }
 
 .form-link{
